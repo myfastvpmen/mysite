@@ -1,13 +1,13 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://cranky-pare-fec8a8.netlify.com"
+baseurl = ""
 # theme
 theme = "dot"
 # site title
 title = "Vmess.RED"
 # default content language
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 ############################# Default Parameters ##########################
 [params]
