@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseurl = ""
+baseURL = "https://cranky-pare-fec8a8.netlify.com"
 # theme
 theme = "dot"
 # site title
